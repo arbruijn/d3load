@@ -1,0 +1,9 @@
+*.o
+lst
+lst2
+*~
+d3load
+*.tmp
+.gdb_history
+.lock
+a.out
